@@ -11,7 +11,7 @@
 🌱 &nbsp;I want to use code to solve real-world problems and make people's lives easier.\
 ✍️ &nbsp;I'm always looking to understand how things work behind the screens, challenging myself to build better projects, and trying to stay active in tech communities and events to expand my opportunities.\
 💬 &nbsp;I'm on track to build meaningful tech solutions that combine creativity, logic, and purpose.\
-✉️ &nbsp;You can shoot me an email at luizabalmeidass@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at luizabalmeidass@gmail.com! I'll try to respond as soon as I can.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
